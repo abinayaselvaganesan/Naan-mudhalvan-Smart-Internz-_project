@@ -1,4 +1,4 @@
-Laptop Request Project – ServiceNow 
+                                                           Laptop Request Project – ServiceNow 
 Overview
 The Laptop Request Project is developed in ServiceNow to automate and simplify the process of requesting laptops within an organization. It demonstrates the use of Service Catalog, Variables, UI Policies, UI Actions, and Update Sets to create an interactive and dynamic service request form.
 Objectives
